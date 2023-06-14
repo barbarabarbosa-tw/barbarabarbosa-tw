@@ -65,7 +65,8 @@ Atualmente, trabalho como Technical Writer em uma Health Tech, sendo responsáve
   - **Front-End 1** HTML, CSS, JS - Programaria 
   - **Lógica de Programação** - Eu programo
   - **Produtividade e Gestão do tempo** - Conquer 
-  
+
+----  
 </details>
 
 #### [**Modelos de documentação**] (Em construção)
