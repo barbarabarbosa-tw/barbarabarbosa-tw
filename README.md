@@ -19,7 +19,7 @@ Atualmente, trabalho como Technical Writer em uma Health Tech, sendo responsáve
     1. Redação e revisão de conteúdos relativos à documentação técnica das soluções de software ofertadas pela empresa:
       Tutoriais - Manuais - FAQ - Testing Notes - Release Notes 
     &nbsp;
-    1. Restruturação de projeto voltado para o acompanhamento e divulgação das métricas relativas à Documentação.
+    1. Reestruturação de projeto voltado para o acompanhamento e divulgação das métricas relativas à Documentação.
 
 - Resultados:
 
