@@ -1,5 +1,5 @@
 # Bárbara Barbosa - TW 
-## Seja bem-vinde ao meu espaço!
+## Seja bem-vindo(a) ao meu espaço!
 ### **Quem sou eu?**
 
 _Olá, sou a Bárbara, TW, mãe de gente e de gato._  👦😺💓  
