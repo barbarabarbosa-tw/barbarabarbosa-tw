@@ -97,7 +97,7 @@ Sou titulada como mestre em Estudos da Linguagem pela Universidade Federal de Ou
 ----  
 </details>
 
-#### [**Modelos de documentação**] (Em construção)
+#### [**Modelos de documentação**](https://github.com/barbarabarbosa-tw/barbarabarbosa-tw/wiki)
 #### [**Repositório sobre TW em PT-BR**] (Em construção) 
 
 ----
