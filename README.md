@@ -1,16 +1,42 @@
-# Bárbara Barbosa - TW 
+# Bárbara Barbosa - Technical Writer 
 ## Boas-vindas! 🤗
 
 ### **Quem sou eu?**
 
 _Olá, sou a Bárbara, TW, mãe de gente e de gato._  👦😺💓  
 
-Ao longo dos anos tive a oportunidade de me dedicar a diferentes áreas relacionadas à linguagem: Redação Técnica, Revisão, Educação e Pesquisa. Acredito que um uso simples, intencional e empático da linguagem pode aproximar as pessoas, crença-guia da minha prática profissional.
+Sou Technical Writer especializada na redação e revisão de documentação técnica de software, incluindo manuais de instruções, tutoriais, FAQs, release notes e testing notes. Tenho também experiência no acompanhamento de métricas de documentação e em gestão do conhecimento organizacional.
 
-Atualmente, trabalho como Technical Writer em uma Health Tech, sendo responsável pela redação e revisão de documentação técnica de software. Tenho buscado cada vez mais me especializar em Technical Writing para produzir uma documentação acessível, ágil e de qualidade.
+Acredito que uma linguagem simples, intencional e empática não apenas facilita a comunicação técnica, mas também aproxima as pessoas, e isso guia minha prática em todas as áreas em que atuo.
+
+Sou ainda revisora de textos e produtora de conteúdo freelancer. Na área da Educação, ministrei aulas como professora de inglês, de português para estrangeiros e de linguística. Ainda, atuei como corretora e monitora de redação.
+
+Sou titulada como mestre em Estudos da Linguagem pela Universidade Federal de Ouro Preto e como bacharel em Tradução pela mesma instituição.
+
+
 
 #### 💼 **Experiência**
+<details>
+  <summary> Analista de Documentação - Grupo Fácil 
+  </summary>
+    
+- Principais atividades: 
 
+    1. Redação e revisão de conteúdos relativos à documentação técnica das soluções de software ofertadas pela empresa:
+      Tutoriais - Manuais - FAQ - Testing Notes - Release Notes - Comunicados 
+    &nbsp;
+    1. Desenho e implantação de projeto e processo de documentação;
+    1. Desenho dos layouts e do padrão de documentação utilizado;
+    1. Levantamento do conteúdo disposto na base interna da organização;
+    1. Realização de treinamentos relativos à documentação;
+    1. Produção de conteúdo para apoiar o processo de onboarding;
+    1. Participação nos ritos dos times de desenvolvimento e de testes.
+
+- Competências:
+
+  Gestão de conhecimentos - Edição - Gestão de tempo - Trabalho em equipe - Aprendizado contínuo - Pesquisa - Organização - Comunição eficaz - Redação técnica - Capacidade analítica - Capacidade de adaptação
+----
+</details>
 <details>
   <summary> Analista de Documentação - Touch Health 
   </summary>
@@ -30,7 +56,7 @@ Atualmente, trabalho como Technical Writer em uma Health Tech, sendo responsáve
 
 - Competências:
 
-  Gestão de conhecimentos | Edição | Gestão de tempo | Trabalho em equipe | Aprendizado contínuo | Pesquisa | Organização | Redação técnica | Capacidade analítica | Capacidade de adaptação
+  Gestão de conhecimentos - Edição - Gestão de tempo - Trabalho em equipe - Aprendizado contínuo - Pesquisa - Organização - Redação técnica - Capacidade analítica - Capacidade de adaptação
 ----
 </details>
 
@@ -40,7 +66,7 @@ Atualmente, trabalho como Technical Writer em uma Health Tech, sendo responsáve
   <summary> Ferramentas
   </summary>
   
-  Confluence - JIRA - Trello - HTML5 - Markdown - VsCode - MS Word - Google Sheets - Canva - Inglês
+  Confluence - JIRA - Trello - Kanbanize - HTML5 - Markdown - VsCode - MS Word - Google Sheets - Canva - Inglês
 
 ----
 </details> 
@@ -53,6 +79,7 @@ Atualmente, trabalho como Technical Writer em uma Health Tech, sendo responsáve
 
    - **Bacharelado em Tradução** - Universidade Federal de Ouro Preto
    - **Mestrado em Estudos da Linguagem** - Universidade Federal de Ouro Preto
+   - **Especialização em Análise e Desenvolvimento de Sistemas** - PUC-MG
 
         [Veja meu Lattes aqui!](http://lattes.cnpq.br/1611415425264109)
 ----
