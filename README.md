@@ -1,5 +1,4 @@
-# doc.ing
-
+# Bárbara Barbosa - Technical Writer
 _Bem-vindo(a) ao meu portfólio de **Technical Writing**._
 
 Neste repositório há exemplos de **documentação técnica**, tanto para **usuários finais** quanto **times internos**.
